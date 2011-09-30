@@ -1,0 +1,4 @@
+name: Gold Fall
+version: 1.3
+main: goldfall.GoldFall
+Authors: [Justin Stauch]

@@ -99,7 +99,7 @@ public class GoldFall extends JavaPlugin {
                     use = Integer.parseInt(fract[0]);
                     denom = Integer.parseInt(fract[1]);
                     int temp = (use/denom) * 100;
-                    System.out.println("[" + info.getName() + "] There is a " + temp + "% chance of getting a golden apple when a leaf is brocken");
+                    System.out.println("[" + info.getName() + "] There is a " + temp + "% chance of getting a golden apple when a leaf is broken");
                 }
                 else {
                     use = Integer.parseInt(there[1]);
